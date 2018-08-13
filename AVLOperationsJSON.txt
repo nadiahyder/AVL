@@ -1,0 +1,45 @@
+{
+  "01": {
+    "key": -51861234,
+    "operation": "Insert"
+  },
+  "02": {
+    "key": 2036842221,
+    "operation": "Insert"
+  },
+  "03": {
+    "key": -1251967866,
+    "operation": "Insert"
+  },
+  "04": {
+    "key": -1417051897,
+    "operation": "Insert"
+  },
+  "05": {
+    "key": -1417051897,
+    "operation": "DeleteMin"
+  },
+  "06": {
+    "key": -1939910633,
+    "operation": "Insert"
+  },
+  "07": {
+    "key": -1939910633,
+    "operation": "DeleteMin"
+  },
+  "08": {
+    "key": -1251967866,
+    "operation": "Delete"
+  },
+  "09": {
+    "key": -1834823255,
+    "operation": "Insert"
+  },
+  "10": {
+    "key": 737788228,
+    "operation": "Insert"
+  },
+  "metadata": {
+    "numOps": 10
+  }
+}
